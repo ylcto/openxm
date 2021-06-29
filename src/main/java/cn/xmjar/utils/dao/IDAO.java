@@ -1,4 +1,4 @@
-package cn.xmjar.utils;
+package cn.xmjar.utils.dao;
 
 import java.util.List;
 import java.util.Map;
@@ -7,6 +7,7 @@ import java.util.Set;
 /**
  * <li>此类用于定义公共接口方法</li>
  * @author 欣茂Java网络课堂开源组件 xmjar.cn
+ * @version 1.0
  * @param <K> 表示对象主键类型
  * @param <V> 表示对象
  */
